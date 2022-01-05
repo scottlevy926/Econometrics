@@ -1,0 +1,16 @@
+	(1)	(2)
+VARIABLES	price	price
+		
+treat_1750_2250	82,490***	-88,926***
+	(3,125)	(24,574)
+elev_m_1750		1,776***
+		(30.85)
+treat_x_elev_m_1750		-1,918***
+		(96.63)
+Constant	220,733***	683,125***
+	(430.9)	(5,226)
+		
+Observations	153,894	7,622
+R-squared	0.005	0.313
+Standard errors in parentheses		
+*** p<0.01, ** p<0.05, * p<0.1		
